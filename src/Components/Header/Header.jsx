@@ -11,6 +11,10 @@ const Header = () => {
       <Link to="/about">
         <li className="m-2">About</li>
       </Link>
+
+      <Link to="/readList">
+        <li className="m-2">Read-List</li>
+      </Link>
     </>
   );
   return (
